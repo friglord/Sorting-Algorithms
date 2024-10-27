@@ -7,3 +7,6 @@ Added changelog file
 
 # 27/10/24 17:35
 changed changelog file to .md for ease of reading and formatting (this may get tedious and i may stop updating with time staps and just compress it into days)
+
+# 27/10/24
+added loose plan to README.md
